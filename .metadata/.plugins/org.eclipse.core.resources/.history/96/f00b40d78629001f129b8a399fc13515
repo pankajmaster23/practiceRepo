@@ -1,0 +1,18 @@
+package Java8;
+
+interface Saybale{
+	public String say(String name);
+}
+
+public class LambdaExpressionExample2 {
+	public static void main(String[] args) {
+		Saybale say = (name)->{
+			
+				return "I have Nothing to say"+name;
+			};
+		
+		var result = say.say("My Friend");
+		System.out.println(result);
+	}
+
+}

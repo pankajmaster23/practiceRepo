@@ -1,0 +1,11 @@
+
+b	java:S1064"+Replace this use of System.out by a logger.(ˆ¢Ûßüÿÿÿÿ8—Ùãóû1H—RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HòRMINORZ
+CODE_SMELL
+n	java:S125-"<This block of commented-out lines of code should be removed.(·¤‘ã8ƒîïóû1HšRMAJORZ
+CODE_SMELL
+g
+java:S37401"/Provide the parametrized type for this generic.(Ôª¬¾ýÿÿÿÿ8ƒîïóû1H™RMAJORZ
+CODE_SMELL

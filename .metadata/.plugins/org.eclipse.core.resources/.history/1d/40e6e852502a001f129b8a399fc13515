@@ -1,0 +1,20 @@
+package Java8;
+
+@FunctionalInterface
+interface Sayable{
+	  void say(String msg);  
+	
+}
+
+public class FunctionalInterfaceExample implements Saybale{
+	public static void main(String[] args) {
+		
+	}
+
+	
+	public String say(String message) {
+		System.out.println(message);
+		
+	}
+   
+}

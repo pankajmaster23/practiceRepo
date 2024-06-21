@@ -1,0 +1,16 @@
+package Java8;
+
+interface Saybale{
+	public String say(int a, int b);
+}
+
+public class LambdaExpressionExample2 {
+	public static void main(String[] args) {
+		Saybale say = (a,b)->(a+b);
+			
+		System.out.println(say.say(2, 5));
+		var result = say.say(2+5);
+		System.out.println(result);
+	}
+
+}

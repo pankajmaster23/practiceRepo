@@ -1,0 +1,21 @@
+package Java8;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+interface Saybale {
+	public String say(String message);
+}
+
+public class LambdaExpressionExample2 {
+	public static void main(String[] args) {
+		Saybale s =  (String message)-> {
+				
+			String str1 = "I would like to say, ";  
+            String str2 = str1 + message;   
+            return str2;  
+			};
+		}
+	}
+

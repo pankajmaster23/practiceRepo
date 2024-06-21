@@ -1,0 +1,10 @@
+package Java8;
+
+public class LambdaExpressionExample10 {
+
+	public static void main(String[] args) {
+	
+
+	}
+
+}

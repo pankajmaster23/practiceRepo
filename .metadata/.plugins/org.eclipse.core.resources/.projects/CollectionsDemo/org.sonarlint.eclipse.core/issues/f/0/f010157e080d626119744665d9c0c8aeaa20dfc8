@@ -1,0 +1,18 @@
+
+‘
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ØáýÌùÿÿÿÿ8Àâ’öû1HâRMINORZ
+CODE_SMELL
+b
+java:S1197	"*Move the array designators [] to the type.(ç¬ø¢øÿÿÿÿ8Äãúõû1HãRMINORZ
+CODE_SMELL
+]	java:S106"+Replace this use of System.out by a logger.(×Æáî8Ÿ¦ÿõû1HæRMAJORZ
+CODE_SMELL
+b	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8Ó’”öû1HçRMAJORZ
+CODE_SMELL
+b	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8±Í“öû1HèRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HéRMINORZ
+CODE_SMELL
+]	java:S106"+Replace this use of System.out by a logger.(ˆš´ò8’ÞŒöû1HêRMAJORZ
+CODE_SMELL

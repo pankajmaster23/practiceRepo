@@ -1,0 +1,19 @@
+
+b	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8ËŒ ¸€2HÓRMAJORZ
+CODE_SMELL
+q
+java:S1854"9Remove this useless assignment to local variable "width".(øœÄÿÿÿÿÿ8ÁËù±€2HñRMAJORZ
+CODE_SMELL
+h
+java:S1854"5Remove this useless assignment to local variable "d".(¢ó­‡8ï—¸€2HÂRMAJORZ
+CODE_SMELL
+b
+java:S1481"*Remove this unused "width" local variable.(øœÄÿÿÿÿÿ8®óü·€2H¥RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ø˜ûşÿÿÿÿHäRMINORZ
+CODE_SMELL
+]	java:S106"+Replace this use of System.out by a logger.(¢ó­‡8Š„¸€2H¹RMAJORZ
+CODE_SMELL
+Y
+java:S1481"&Remove this unused "d" local variable.(¢ó­‡8ï—¸€2HÃRMINORZ
+CODE_SMELL

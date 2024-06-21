@@ -1,0 +1,11 @@
+
+F
+java:S1220""Move this file to a named package.H·RMINORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ÂÔ¥‡€2HÈRMINORZ
+CODE_SMELL
+b	java:S106"+Replace this use of System.out by a logger.(äê¤Êùÿÿÿÿ8­›Ğèı1HÇRMAJORZ
+CODE_SMELL
+b	java:S106"+Replace this use of System.out by a logger.(ü‘ùùÿÿÿÿ8ô†¨‡€2HÍRMAJORZ
+CODE_SMELL

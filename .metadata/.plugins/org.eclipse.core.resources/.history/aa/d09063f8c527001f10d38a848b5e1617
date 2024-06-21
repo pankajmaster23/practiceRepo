@@ -1,0 +1,21 @@
+package Java8;
+
+interface Drawable{
+	public void draw();
+}
+
+
+public class LambdaExpressionExample implements Drawable{
+
+	
+	public static void main(String[] args) {
+		LambdaExpressionExample obj = new LambdaExpressionExample();
+		obj.draw();
+	}
+
+	
+	public void draw() {
+		System.out.println("draw");
+		
+	}
+}

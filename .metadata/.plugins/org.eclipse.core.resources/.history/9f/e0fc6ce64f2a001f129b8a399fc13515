@@ -1,0 +1,16 @@
+package Java8;
+
+@FunctionalInterface
+interface Sayable{
+	abstract void say()
+	{
+		System.out.println("Hello");
+	}
+}
+
+public class FunctionalInterfaceExample {
+	public static void main(String[] args) {
+		
+	}
+
+}

@@ -1,0 +1,37 @@
+package Java8;
+
+@FunctionalInterface
+interface Drawable
+{
+	void draw();
+static void mymethod();
+}
+
+
+public class LambdaExpressionExample{
+
+	
+	public static void main(String[] args) {
+		int width = 10;
+		 
+		Drawable circleDraw = () -> System.out.println("Drawing circle");
+
+		 
+		Drawable rectangleDraw = () -> System.out.println("Drawing rectangle");
+		
+		
+		draw(circleDraw);
+		draw(rectangleDraw);
+
+	}
+
+	public static void draw(Drawable drawable) {
+
+		drawable.draw();
+		
+	}
+
+	
+	
+	
+}

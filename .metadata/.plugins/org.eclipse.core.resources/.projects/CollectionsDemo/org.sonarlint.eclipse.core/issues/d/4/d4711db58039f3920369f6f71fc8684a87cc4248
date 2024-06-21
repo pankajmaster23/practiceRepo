@@ -1,0 +1,9 @@
+
+b	java:S106	"+Replace this use of System.out by a logger.(ґ‹№цюяяяя8Са†пь1HіRMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(ҐНтХ8µ‘Џпь1HґRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¶RMINORZ
+CODE_SMELL

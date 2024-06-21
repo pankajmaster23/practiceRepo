@@ -1,0 +1,17 @@
+package Java8;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+interface Saybale {
+	public String say(...message);
+}
+
+public class LambdaExpressionExample2 {
+	public static void main(String[] args) {
+		List<String> list = Arrays.asList("Anikt","Mayank","Jai","Rahul");
+		
+		list.forEach(System.out::println);
+	}
+}

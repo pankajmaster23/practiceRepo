@@ -1,0 +1,13 @@
+import java.util.HashSet;
+
+public class HashSet1 {
+
+	public static void main(String[] args) {
+		 Thread th = new Thread();
+		 th.start();
+		 System.out.println("In main thread");
+		
+	
+	}
+
+}

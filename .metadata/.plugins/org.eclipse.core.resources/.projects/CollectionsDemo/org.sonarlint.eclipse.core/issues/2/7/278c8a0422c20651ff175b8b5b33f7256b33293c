@@ -1,0 +1,22 @@
+
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8”ï®ú1HÑRMINORZ
+CODE_SMELL
+c
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äğ18”ï®ú1HÓRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HÕRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8¿Û˜‚ú1HÖRMINORZ
+CODE_SMELL
+c
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8”ï®ú1HØRMINORZ
+CODE_SMELL
+c
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¿Û˜‚ú1HÚRMINORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8”ï®ú1HÜRMINORZ
+CODE_SMELL

@@ -1,0 +1,40 @@
+package Java8;
+
+import java.util.function.Predicate;
+
+@FunctionalInterface
+interface Testable<T>
+{
+	boolean test(T t);
+}
+
+
+public class LambdaExpressionExample{
+	
+	public static void main(String[] args) {
+		int num = 10;
+		
+		
+		Testable<Integer> evenNumberChecker = n -> 0 == n%2;
+
+		 
+		Testable<Integer> oddNumberChecker = n -> 0 != n%2;
+		
+		
+		System.out.println(tester(evenNumberChecker, 10));
+		System.out.println(tester(evenNumberChecker, 12));
+
+		System.out.println(tester(oddNumberChecker, 11));
+		System.out.println(tester(oddNumberChecker, 13));
+	}
+
+	public static boolean tester(Testable<Integer> testable, int num) {
+
+		return testable.test(num);
+		
+	}
+
+	
+	
+	
+}

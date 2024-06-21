@@ -1,0 +1,38 @@
+package Java8;
+
+import java.util.function.Predicate;
+
+@FunctionalInterface
+interface Testable<T>
+{
+	void test(T t);
+}
+
+
+public class LambdaExpressionExample{
+	
+	public static void main(String[] args) {
+		int num = 10;
+		
+		
+		Testable circleDraw = () -> System.out.println("Drawing circle");
+
+		 
+		Testable rectangleDraw = () -> System.out.println("Drawing rectangle");
+		
+		
+		draw(circleDraw);
+		draw(rectangleDraw);
+
+	}
+
+	public static void draw(Testable<Integer> testable, int num) {
+
+		drawable.test(num);
+		
+	}
+
+	
+	
+	
+}
